@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **Ankit Kumar**
 - 🌱 I’m currently learning python, cybersecurity practices and compliance
-- 📄ISC2 Cybersecurity Certified 
+- 📄ISC2 Cybersecurity Certified [View Badge](https://www.credly.com/badges/7ad51bc2-f80b-4d05-8b87-9eea6b98cc07/linked_in_profile)
 - 📫 How to reach me https://www.linkedin.com/in/ankitkrx
 - 🐧 Portfolio: https://sites.google.com/view/ankx [Temporarily taken down]
 <!---
